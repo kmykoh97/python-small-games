@@ -1,2 +1,3 @@
 # python-small-games
-Python games
+
+## Everything is writen with Python. More languages wil be added...
